@@ -21,13 +21,13 @@ h4 {
   display: inline-block;
   padding: 5px;
   margin: 20px 0 0 0;
+  background: linear-gradient(#44cc66);
 }
 
 .amiable {
   border: 1px solid #22aa44;
   box-shadow:  -1px 1px #22aa44, -2px 2px #22aa44, -3px 3px #22aa44, -4px 4px #22aa44, -5px 5px #22aa44;
-  background-color: ;
-  background: linear-gradient(#44cc66, #9198e5);;
+  background-color: #44cc66;
 
 }
 

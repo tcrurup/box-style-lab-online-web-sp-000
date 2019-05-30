@@ -58,3 +58,7 @@ h4 {
 img {
   border: solid;
 }
+
+section{
+  box-shadow: 5px;
+}

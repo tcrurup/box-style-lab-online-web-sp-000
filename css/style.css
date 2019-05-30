@@ -21,7 +21,7 @@ h4 {
   display: inline-block;
   padding: 5px;
   margin: 20px 0 0 0;
-  linear-gradient();
+  background: linear-gradient();
 }
 
 .amiable {
